@@ -1,6 +1,6 @@
 # Pokemon API
 
-This an API made with Node.js and Express.js
+This is an API made with Node.js and Express.js
 
 ## Description
 
