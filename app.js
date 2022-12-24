@@ -4,7 +4,6 @@ const app = express();
 const bodyParser = require('body-parser');
 const morgan = require('morgan');
 
-
 app.use(express.static('public'));
 
 const PORT = process.env.PORT || 4001;
